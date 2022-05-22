@@ -1,18 +1,4 @@
 {
-    "97654": {
-        "article_title": "Hackers compromise NFT Discord channels",
-        "article_author": "Maria Henriquez",
-        "article_date": "May 19, 2022",
-        "article_abstract": "Hackers exploited a popular Discord bot to deceive users into clicking malicious links inside Discord servers of several popular nonfungible tokens (NFT) projects.",
-        "article_url": "https://www.securitymagazine.com/articles/97654-hackers-compromise-nft-discord-channels"
-    },
-    "97652": {
-        "article_title": "Spring cleaning your data and cybersecurity practices РІР‚вЂќ What small businesses need to know",
-        "article_author": "Chris Wayne",
-        "article_date": "May 19, 2022",
-        "article_abstract": "Here are some key insights and considerations for small business owners looking to clean up their data and cybersecurity practices РІР‚вЂќ\n just in time for spring.",
-        "article_url": "https://www.securitymagazine.com/articles/97652-spring-cleaning-your-data-and-cybersecurity-practices-what-small-businesses-need-to-know"
-    },
     "97651": {
         "article_title": "The time has come for a strategic electricity reserve",
         "article_author": "Bill Derasmo",
@@ -68,5 +54,54 @@
         "article_date": "May 19, 2022",
         "article_abstract": "U.S. officials have warned businesses against hiring IT staff from North Korea, as they may expose themselves to legal consequences and insider risk.",
         "article_url": "https://www.securitymagazine.com/articles/97655-us-warns-against-hiring-north-korean-it-staff"
+    },
+    "97668": {
+        "article_title": "Beware potential ransomware attacks on QNAP NAS products",
+        "article_author": "Maria Henriquez",
+        "article_date": "May 20, 2022",
+        "article_abstract": "QNAP Systems urges users to update their network attached storage (NAS) devices to avoid exposure to the Deadbolt ransomware.",
+        "article_url": "https://www.securitymagazine.com/articles/97668-beware-potential-ransomware-attacks-on-qnap-nas-products"
+    },
+    "97667": {
+        "article_title": "CISOs list top cyber threats to enterprises in 2022",
+        "article_author": "Madeline Lauver",
+        "article_date": "May 20, 2022",
+        "article_abstract": "Chief information security officers (CISOs) from 14 countries list their top of mind cyber threats to their organizations.",
+        "article_url": "https://www.securitymagazine.com/articles/97667-cisos-list-top-cyber-threats-to-enterprises-in-2022"
+    },
+    "97664": {
+        "article_title": "3 key cybersecurity trends in the energy sector",
+        "article_author": "Security Staff",
+        "article_date": "May 20, 2022",
+        "article_abstract": "Energy executives anticipate life, property and environment-compromising cyberattacks on the sector, according to new cybersecurity research by DNV.",
+        "article_url": "https://www.securitymagazine.com/articles/97664-3-key-cybersecurity-trends-in-the-energy-sector"
+    },
+    "97666": {
+        "article_title": "10% of IT leaders believe they can stop an advanced attack",
+        "article_author": "Security Staff",
+        "article_date": "May 20, 2022",
+        "article_abstract": "90% of IT and cybersecurity professionals are not confident in their ability to stop an advanced cyberattack, according to the 2022 Global State of Security report from Infoblox.",
+        "article_url": "https://www.securitymagazine.com/articles/97666-10-of-it-leaders-believe-they-can-stop-an-advanced-attack"
+    },
+    "97665": {
+        "article_title": "Pro-Russia cyberattacks target Italian Senate, Eurovision",
+        "article_author": "Madeline Lauver",
+        "article_date": "May 20, 2022",
+        "article_abstract": "Pro-Russia hacker group Killnet has claimed responsibility for cyberattacks on many Italian institutions, declaring \"war\" on 10 countries including the United States.",
+        "article_url": "https://www.securitymagazine.com/articles/97665-pro-russia-cyberattacks-target-italian-senate-eurovision"
+    },
+    "97654": {
+        "article_title": "Hackers compromise NFT Discord channels",
+        "article_author": "Maria Henriquez",
+        "article_date": "May 19, 2022",
+        "article_abstract": "Hackers exploited a popular Discord bot to deceive users into clicking malicious links inside Discord servers of several popular nonfungible tokens (NFT) projects.",
+        "article_url": "https://www.securitymagazine.com/articles/97654-hackers-compromise-nft-discord-channels"
+    },
+    "97652": {
+        "article_title": "Spring cleaning your data and cybersecurity practices Р В Р’В Р В РІР‚В Р В Р’В Р Р†Р вЂљРЎв„ўР В Р вЂ Р В РІР‚С™Р РЋРЎС™ What small businesses need to know",
+        "article_author": "Chris Wayne",
+        "article_date": "May 19, 2022",
+        "article_abstract": "Here are some key insights and considerations for small business owners looking to clean up their data and cybersecurity practices Р В Р’В Р В РІР‚В Р В Р’В Р Р†Р вЂљРЎв„ўР В Р вЂ Р В РІР‚С™Р РЋРЎС™\n just in time for spring.",
+        "article_url": "https://www.securitymagazine.com/articles/97652-spring-cleaning-your-data-and-cybersecurity-practices-what-small-businesses-need-to-know"
     }
 }
